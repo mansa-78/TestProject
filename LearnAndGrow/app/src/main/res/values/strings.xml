@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">LearnAndGrow</string>
+    <string name="intro">For every child, education is possible.</string>
+    <string name="intro2">We are a nonprofit organization with a mission to provide a free STEM education for everyone, everywhere.</string>
+    <string name="intro3">Why Learn And Grow works?</string>
+    <string name="intro31">Self pace learning</string>
+    <string name="intro32">Feedback from instructors</string>
+    <string name="intro33">Trusted content</string>
+    <string name="results_result">Score</string>
+    <string name="results_go_home">I am Done</string>
+    <string name="questionnaire_qh1">Question 1</string>
+    <string name="questionnaire_qh2">Question 2</string>
+    <string name="questionnaire_qh3">Question 3</string>
+    <string name="questionnaire_q1">Which law of motion says that it is harder to move something with a larger mass?</string>
+    <string name="questionnaire_q2">If you throw a ball across a field, which forces are most likely to cause it to stop?</string>
+    <string name="questionnaire_q3">Explain the diagram</string>
+    <string name="questionnaire_op1">Law 1</string>
+    <string name="questionnaire_op2">Law 2</string>
+    <string name="questionnaire_op3">Law 3</string>
+    <string name="questionnaire_submit">Submit</string>
+
+    <string name="grade_tab1">Physics</string>
+    <string name="grade_tab2">Chemistry</string>
+    <string name="grade_tab3">Biology</string>
+    <string name="grade_tab1_content">Physics is one of the oldest academic disciplines and, through its inclusion of astronomy, perhaps the oldest. [9] Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century these natural sciences emerged as unique research endeavors in their own right. [c] Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined...</string>
+    <string name="grade_tab2_content">Chemistry is the scientific discipline involved with elements and compounds composed of atoms...</string>
+    <string name="grade_tab3_content">Biology is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution...</string>
+    <string name="grade_btn_take">Take A Test</string>
+    <string name="grade_link2source">Link To Wiki (Source)</string>
+    <string name="main_follow_us">Follow Us</string>
+    <string name="main_image">Image</string>
+    <string name="ignore">Answer</string>
+    <string name="questionnaire_check1">Law 1</string>
+    <string name="questionnaire_check2">Law 2</string>
+    <string name="questionnaire_check3">Law 3</string>
+    <string name="questionnaire_radio1">Inertia and Magnetism</string>
+    <string name="questionnaire_radio2">Gravity and Inertia</string>
+    <string name="questionnaire_radio3">Friction and Gravity</string>
+</resources>

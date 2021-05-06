@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Menu Items for Home Screen-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item android:id="@+id/login"
+        android:title="Login"
+            android:icon="@drawable/ic_login"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/signup"
+        android:title="Sign Up"
+        android:icon="@drawable/ic_signup"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/mainpage"
+        android:title="Course"
+        android:icon="@drawable/ic_education"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/blank"
+        android:title="Follow Us"
+        app:showAsAction="never"/>
+</menu>
